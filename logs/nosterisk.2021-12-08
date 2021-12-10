@@ -1,0 +1,2689 @@
+[2021-12-08 09:12:59] | [info] | SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---5a91cb924a329c9d;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=994739
+From: <sip:hello@localhost:9999;transport=TCP>;tag=493e3e3a
+Call-ID: QQeUlvuCIxIaKfjHhOQkbQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 09:12:08] | [info] | SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---26e7ead60964398a;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=994739
+From: <sip:hello@localhost:9999;transport=TCP>;tag=01a77a25
+Call-ID: hTU8UhIkyydinyIJ-FHWEw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 09:12:27] | [info] | SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---25446ba1da18effb;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=13022949
+From: <sip:hello@localhost:9999;transport=TCP>;tag=b1c6362e
+Call-ID: 2jT6iETqIfVstcspJGKc8Q..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 09:12:27] | [info] | SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---e4c4b7d2d3290486;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=13022949
+From: <sip:hello@localhost:9999;transport=TCP>;tag=b1c6362e
+Call-ID: 2jT6iETqIfVstcspJGKc8Q..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 09:12:32] | [info] | SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---44e88c6fe3d63995;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=1479760
+From: <sip:hello@localhost:9999;transport=TCP>;tag=06dea95e
+Call-ID: KM66lZWI4dTlWR3qArpYBQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 09:12:33] | [info] | SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---c49f60d9ef5e1d43;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=1479760
+From: <sip:hello@localhost:9999;transport=TCP>;tag=06dea95e
+Call-ID: KM66lZWI4dTlWR3qArpYBQ..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 09:12:02] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---56bf77509219ede4;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=2774041
+From: <sip:hello@localhost:9999;transport=TCP>;tag=09f66146
+Call-ID: Cz8AyAHistl2Oh8NwQun0w..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 09:12:02] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---7ca909b44217b4cb;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=2774041
+From: <sip:hello@localhost:9999;transport=TCP>;tag=09f66146
+Call-ID: Cz8AyAHistl2Oh8NwQun0w..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 09:12:11] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---97677aae62fdb009;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=2774041
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=9d20dc65
+Call-ID: FPvhUtiVJYXS_kVZEivvJA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 09:12:16] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---c7224e474374fa0e;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=2774041
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=9d20dc65
+Call-ID: FPvhUtiVJYXS_kVZEivvJA..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 09:12:55] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---42e70eccbf2cdae8;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=2774041
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=287aca26
+Call-ID: T6JqAbJ4nuk432nks-2tXw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 09:12:02] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---f861d98c0301bc53;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=14842702
+From: <sip:hello@localhost:9999;transport=TCP>;tag=6eb40f3c
+Call-ID: IzYr5Cv3ZcTxF1q_YftSAg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 09:12:13] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---41e193082feb5e27;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=9143639
+From: <sip:hello@localhost:9999;transport=TCP>;tag=4aa7541d
+Call-ID: CspODGX5p9LWpXvmbrThnw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 09:12:86] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---fc7671f9ef99e27f;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=16246341
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=283fe463
+Call-ID: Q6RJzkbYtyW1aWen0R--aA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 09:12:27] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---2a46fa04cc1b8c86;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=16246341
+From: <sip:hello@localhost:9999;transport=TCP>;tag=c41a754b
+Call-ID: fnOSvKVcykYnEPepLL18vw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 09:12:27] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---656fed9973332572;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=9304160
+From: <sip:hello@localhost:9999;transport=TCP>;tag=aa75826e
+Call-ID: zPs45zUhYAcLN1Jea_sIOQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 09:12:06] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---1d72b5413ba8f8ff;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=9304160
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=7d62a36d
+Call-ID: zpw7p7Oemzi-1jrg-3YVkg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 09:12:05] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---83d291fbefa6e6a8;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=9304160
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=8521cd40
+Call-ID: NknkxwUxJV2pOpwFIF8CSw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 09:12:25] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---d58ccca28ad11457;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=9304160
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=b922d530
+Call-ID: 2XXn5_NqsSxfoBrVR8pPmg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 09:12:33] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---294e61340e4867e8;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=9304160
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=5557426f
+Call-ID: F-Ns6lmKxy_s_UVdndVmvQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 09:12:64] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---b00a19319044c5f5;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=9304160
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=36726329
+Call-ID: 4vV0o-ZIv1Qt1_wJ3SD75w..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 09:12:79] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---b523beefa0ba0b6d;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=9304160
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=040b4717
+Call-ID: mi0LU0ZvA2SYoORzcKVTZg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 09:12:95] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---8e3c85b3186fe7d2;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=9304160
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=9211ed6f
+Call-ID: FmK6XHX3OJUCu92ZNXo5Xw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 09:12:85] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---b443601fd9b8bb20;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=9304160
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=8375b976
+Call-ID: NnzmMouP20-iLRWpm06X6w..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 09:12:25] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---33f792c1f3751114;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=9304160
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=2f262916
+Call-ID: p0yefDJ-fJYsO7KWv7wOrA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 09:12:17] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---28c3bbf0da9962c3;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=9304160
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=c64ec63b
+Call-ID: oqaRxD3HEg41oPysqIcoBg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:31] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---6fe70d628f95ddc6;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=9304160
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=b3725d69
+Call-ID: -Cv9FpEghqyO0PFXKVUI4g..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:72] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---f4a798e100487ec2;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=9304160
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=444e702f
+Call-ID: UUctc0s0wfGt3KTUFF_qrA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:98] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---058f74b13834e213;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=10477573
+From: <sip:hello@localhost:9999;transport=TCP>;tag=519a832b
+Call-ID: 99aiUFemgXuA80O6601P8g..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 10:12:74] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---0a9f6ae1f58eeb11;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=2354468
+From: <sip:hello@localhost:9999;transport=TCP>;tag=cdb9a27f
+Call-ID: NG_5wvE9uoE75ncTlX9c1Q..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 10:12:60] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---ad209673095347c1;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=2354468
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=670ecb7b
+Call-ID: nU26s92yi3ljqtIv820JAQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:23] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---be5552e69ed5cc35;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=6523417
+From: <sip:hello@localhost:9999;transport=TCP>;tag=0b848d24
+Call-ID: 6Z0QWwBYdycyxJGRBmLLIg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 10:12:66] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---ac7604b52935ddc0;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=3958024
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=a25bd827
+Call-ID: FiLtM2xGa7sDMCpx99B6Qg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:29] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---5523ebc36b2975ad;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=3958024
+From: <sip:hello@localhost:9999;transport=TCP>;tag=586ce65f
+Call-ID: z4lkysJHmHsQOs2vQtI7zQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 10:12:29] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---ed4afa210e8e3ca4;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=3958024
+From: <sip:hello@localhost:9999;transport=TCP>;tag=586ce65f
+Call-ID: z4lkysJHmHsQOs2vQtI7zQ..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 10:12:99] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---167bf49d1878858e;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=4824391
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=a25bd827
+Call-ID: FiLtM2xGa7sDMCpx99B6Qg..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 10:12:68] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---b2a50eb688b90736;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=4824391
+From: <sip:hello@localhost:9999;transport=TCP>;tag=2b273c26
+Call-ID: eeys5yrnVuQ3DJkZaMi7EQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 10:12:34] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---b377bee538c0e75a;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=16235745
+From: <sip:hello@localhost:9999;transport=TCP>;tag=b5b23675
+Call-ID: JW8d5Sy_LqmK_CdB3dNsZg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 10:12:35] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---bfaf0b69a9d7fac1;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=16235745
+From: <sip:hello@localhost:9999;transport=TCP>;tag=b5b23675
+Call-ID: JW8d5Sy_LqmK_CdB3dNsZg..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 10:12:34] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---b0b2ff98ca708f67;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=16235745
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=1120264b
+Call-ID: -WvN8dI8S5A5iFn-g6xhBA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:04] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 172.20.10.3:55874;branch=z9hG4bK-524287-1---ed6899fa9a0824a0;rport
+To: <sip:444@172.20.10.4:9999;transport=TCP> tag=6107808
+From: <sip:444@172.20.10.4:9999;transport=TCP>;tag=1120264b
+Call-ID: -WvN8dI8S5A5iFn-g6xhBA..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 10:12:49] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---282b4fe82b7d28ae;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=6107808
+From: <sip:hello@localhost:9999;transport=TCP>;tag=8d31c938
+Call-ID: cJlu2vblAYV9hDDtq1oMLA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 10:12:49] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---b241b473a80f1c7c;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=6107808
+From: <sip:hello@localhost:9999;transport=TCP>;tag=8d31c938
+Call-ID: cJlu2vblAYV9hDDtq1oMLA..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 10:12:53] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---af2b457db34851fc;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=11837471
+From: <sip:hello@localhost:9999;transport=TCP>;tag=9711641e
+Call-ID: t7ZVAjNu7ZF9p9gNv3I0JA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 10:12:54] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---916fe4f324849328;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=11837471
+From: <sip:hello@localhost:9999;transport=TCP>;tag=9711641e
+Call-ID: t7ZVAjNu7ZF9p9gNv3I0JA..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 10:12:98] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---bb1dd00201ad6fed;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=10685091
+From: <sip:hello@localhost:9999;transport=TCP>;tag=c72f6229
+Call-ID: nzNrTRAfPChZHf3Chuc6Xg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 10:12:98] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---8290624a92d27bf3;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=10685091
+From: <sip:hello@localhost:9999;transport=TCP>;tag=c72f6229
+Call-ID: nzNrTRAfPChZHf3Chuc6Xg..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 10:12:09] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---e5a345138a22e916;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=10685091
+From: <sip:hello@localhost:9999;transport=TCP>;tag=b10c8a57
+Call-ID: uc1wiGXFS_8Jq9r4L5TMGA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 10:12:09] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---3800b6444310c606;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=10685091
+From: <sip:hello@localhost:9999;transport=TCP>;tag=b10c8a57
+Call-ID: uc1wiGXFS_8Jq9r4L5TMGA..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 10:12:48] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---8c6859546441e018;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=10685091
+From: <sip:hello@localhost:9999;transport=TCP>;tag=92c88a6d
+Call-ID: n9haJH1xz5y-yGtmoFnB4Q..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:69] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---849fcb5929724b38;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=4207893
+From: <sip:hello@localhost:9999;transport=TCP>;tag=37480c71
+Call-ID: Uma8Xg99IlGHr0Tqqf57JQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:89] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---d4493c17cabe1a48;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=15101394
+From: <sip:hello@localhost:9999;transport=TCP>;tag=464a3118
+Call-ID: sUiNlogROvCxd3oGPFxfXg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:80] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---84fa5a1dffbf5895;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=11164047
+From: <sip:hello@localhost:9999;transport=TCP>;tag=a0d5133b
+Call-ID: EBij0DKoHskiERugqM3xzA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:59] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---77fe67bc7915436d;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=9038123
+From: <sip:hello@localhost:9999;transport=TCP>;tag=b61a281f
+Call-ID: O3LMwJvt3zePAIVQ3Q6yOg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:69] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---e10cde3bbbee320e;rport
+To: <sip:hello@localhost:9999;transport=TCP> tag=9038123
+From: <sip:hello@localhost:9999;transport=TCP>;tag=b61a281f
+Call-ID: O3LMwJvt3zePAIVQ3Q6yOg..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 10:12:98] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---4dd236693d9ca1ab;rport
+To: <sip:junho@localhost:9999;transport=TCP> tag=9038123
+From: <sip:junho@localhost:9999;transport=TCP>;tag=0b67df06
+Call-ID: zyPNPiN20i0zk8FxtQ_CnQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 10:12:99] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---acfd4e3a9105e014;rport
+To: <sip:junho@localhost:9999;transport=TCP> tag=9038123
+From: <sip:junho@localhost:9999;transport=TCP>;tag=0b67df06
+Call-ID: zyPNPiN20i0zk8FxtQ_CnQ..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 10:12:82] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---06c1d58f9ecea01d;rport
+To: <sip:junho@localhost:9999;transport=TCP> tag=9038123
+From: <sip:junho@localhost:9999;transport=TCP>;tag=ff9c9a6c
+Call-ID: oUL3AuyuLEZgDu9wMnjN2g..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:23] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---04239fa0cde1dd74;rport
+To: <sip:junho@localhost:9999;transport=TCP> tag=12747794
+From: <sip:junho@localhost:9999;transport=TCP>;tag=ee68e471
+Call-ID: BCTxbo9jD9yciFA3cwnvXw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:16] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---7ef35f3e6cf87819;rport
+To: <sip:junho@localhost:9999;transport=TCP> tag=14229206
+From: <sip:junho@localhost:9999;transport=TCP>;tag=3eef903b
+Call-ID: WXL4sfjqzFZJk6rHaROj2w..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:17] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---108a6afb5737396a;rport
+To: <sip:junho@localhost:9999;transport=TCP> tag=14229206
+From: <sip:junho@localhost:9999;transport=TCP>;tag=3eef903b
+Call-ID: WXL4sfjqzFZJk6rHaROj2w..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:78] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---40fa77e7c5f56233;rport
+To: <sip:junho@localhost:9999;transport=TCP> tag=4363371
+From: <sip:junho@localhost:9999;transport=TCP>;tag=9570ac66
+Call-ID: 6r7gGzHmiQ0BD7akKPRUKw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:04] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---8e684bfdc37e1dcf;rport
+To: <sip:junho@localhost:9999;transport=TCP> tag=7834452
+From: <sip:junho@localhost:9999;transport=TCP>;tag=e8e21153
+Call-ID: otP6qE905SPpLjUO8rBaew..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:48] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---ff419529c6d79966;rport
+To: <sip:junho@localhost:9999;transport=TCP> tag=7834452
+From: <sip:junho@localhost:9999;transport=TCP>;tag=e8e21153
+Call-ID: otP6qE905SPpLjUO8rBaew..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 10:12:48] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---ffb638d6ed84961e;rport
+To: <sip:junho@localhost:9999;transport=TCP> tag=7834452
+From: <sip:junho@localhost:9999;transport=TCP>;tag=f2a9ef7a
+Call-ID: xn1xSyqLjbB7_SgafKwq-A..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:100] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---ba2148e1dc0c9b72;rport
+To: <sip:jihee@localhost:9999;transport=TCP> tag=7834452
+From: <sip:jihee@localhost:9999;transport=TCP>;tag=65e1580e
+Call-ID: GroLXuVmizaVjn311iUS1Q..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 10:12:100] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---1a65eeab36dd79fc;rport
+To: <sip:jihee@localhost:9999;transport=TCP> tag=7834452
+From: <sip:jihee@localhost:9999;transport=TCP>;tag=65e1580e
+Call-ID: GroLXuVmizaVjn311iUS1Q..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 10:12:00] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---30dd588fc41ae0a4;rport
+To: <sip:jihee@localhost:9999;transport=TCP> tag=7834452
+From: <sip:jihee@localhost:9999;transport=TCP>;tag=9c6a8368
+Call-ID: DfPIRg1Bq-XvRyZKVSYIMg..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:59] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---f3944f7b4fb92b35;rport
+To: <sip:jihee@localhost:9999;transport=TCP> tag=7834452
+From: <sip:jihee@localhost:9999;transport=TCP>;tag=9c6a8368
+Call-ID: DfPIRg1Bq-XvRyZKVSYIMg..
+CSeq: 3 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 10:12:39] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---c18ad06ab70d26eb;rport
+To: <sip:junho@localhost:9999;transport=TCP> tag=7834452
+From: <sip:junho@localhost:9999;transport=TCP>;tag=f2a9ef7a
+Call-ID: xn1xSyqLjbB7_SgafKwq-A..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 10:12:29] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---b8ea91d85632be70;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=7834452
+From: <sip:1234@localhost:9999;transport=TCP>;tag=a102fb35
+Call-ID: RYP457ty6U0-ALyuy8yrJA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 10:12:29] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---ce07f12287a108aa;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=7834452
+From: <sip:1234@localhost:9999;transport=TCP>;tag=a102fb35
+Call-ID: RYP457ty6U0-ALyuy8yrJA..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 10:12:70] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---8c006671fc21253b;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=7834452
+From: <sip:1234@localhost:9999;transport=TCP>;tag=1306342f
+Call-ID: TXtO11oa30tyt6wLIQtoWQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:74] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---b0ef8b8da33e5168;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=7834452
+From: <sip:1234@localhost:9999;transport=TCP>;tag=1306342f
+Call-ID: TXtO11oa30tyt6wLIQtoWQ..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 10:12:75] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---90b57a9c5d4202ae;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=7834452
+From: <sip:1234@localhost:9999;transport=TCP>;tag=5865b117
+Call-ID: 87rHokcX7fSoFpGMVQaSIw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 10:12:24] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---456c587eb71cef2d;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=7834452
+From: <sip:5678@localhost:9999;transport=TCP>;tag=0faa4919
+Call-ID: KHOOAkUoizlGRuudmbnKCg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 10:12:24] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---d0f7e62f4d439fbe;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=7834452
+From: <sip:5678@localhost:9999;transport=TCP>;tag=0faa4919
+Call-ID: KHOOAkUoizlGRuudmbnKCg..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 10:12:24] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---f86a17cc33307c11;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=7834452
+From: <sip:5678@localhost:9999;transport=TCP>;tag=2a329853
+Call-ID: uILGZ2GPNu7FWmt2aDRZBA..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 11:12:75] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---8a80a133cdd0bb86;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=7834452
+From: <sip:1234@localhost:9999;transport=TCP>;tag=5865b117
+Call-ID: 87rHokcX7fSoFpGMVQaSIw..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 11:12:24] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---06a89d3d4eef46cc;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=7834452
+From: <sip:5678@localhost:9999;transport=TCP>;tag=2a329853
+Call-ID: uILGZ2GPNu7FWmt2aDRZBA..
+CSeq: 3 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 11:12:70] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---4540e6f55b79beff;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=1548492
+From: <sip:1234@localhost:9999;transport=TCP>;tag=0c5f0e06
+Call-ID: nAQMVDQT7kzCg_yCdgYsdw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 11:12:78] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---1e50cae84d6ace40;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=1548492
+From: <sip:5678@localhost:9999;transport=TCP>;tag=5585f440
+Call-ID: 8idu6YD3zOleEVj540Rdeg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 11:12:20] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---538eb5db5c4a8885;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=11169290
+From: <sip:1234@localhost:9999;transport=TCP>;tag=74ae5640
+Call-ID: qL7m55dao_-lJynlhJ3yiA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 11:12:22] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---0318ada518c51956;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=11169290
+From: <sip:5678@localhost:9999;transport=TCP>;tag=23c4eb1d
+Call-ID: ewlPb2GfQ-oFqqtn54K91Q..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 11:12:20] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---5d012978714b2c86;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=11169290
+From: <sip:1234@localhost:9999;transport=TCP>;tag=74ae5640
+Call-ID: qL7m55dao_-lJynlhJ3yiA..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 11:12:22] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---fae51b34f4799102;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=11169290
+From: <sip:5678@localhost:9999;transport=TCP>;tag=23c4eb1d
+Call-ID: ewlPb2GfQ-oFqqtn54K91Q..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 12:12:21] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---6f56814f51fb16a5;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=11169290
+From: <sip:1234@localhost:9999;transport=TCP>;tag=74ae5640
+Call-ID: qL7m55dao_-lJynlhJ3yiA..
+CSeq: 3 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 12:12:23] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---a1b0fb2fa8d89a34;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=11169290
+From: <sip:5678@localhost:9999;transport=TCP>;tag=23c4eb1d
+Call-ID: ewlPb2GfQ-oFqqtn54K91Q..
+CSeq: 3 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 12:12:21] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---8fe5b649fc92acd0;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=11169290
+From: <sip:1234@localhost:9999;transport=TCP>;tag=74ae5640
+Call-ID: qL7m55dao_-lJynlhJ3yiA..
+CSeq: 4 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 12:12:23] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---f13b0b9dd6b1d381;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=11169290
+From: <sip:5678@localhost:9999;transport=TCP>;tag=23c4eb1d
+Call-ID: ewlPb2GfQ-oFqqtn54K91Q..
+CSeq: 4 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 12:12:21] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---03410b7f46f9f4ae;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=11169290
+From: <sip:1234@localhost:9999;transport=TCP>;tag=74ae5640
+Call-ID: qL7m55dao_-lJynlhJ3yiA..
+CSeq: 5 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 12:12:23] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---ae2e2c944b8207f1;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=11169290
+From: <sip:5678@localhost:9999;transport=TCP>;tag=23c4eb1d
+Call-ID: ewlPb2GfQ-oFqqtn54K91Q..
+CSeq: 5 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 12:12:21] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---f2bcf0da7f1b9a30;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=11169290
+From: <sip:1234@localhost:9999;transport=TCP>;tag=74ae5640
+Call-ID: qL7m55dao_-lJynlhJ3yiA..
+CSeq: 6 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 12:12:23] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---9076df7d1af0f069;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=11169290
+From: <sip:5678@localhost:9999;transport=TCP>;tag=23c4eb1d
+Call-ID: ewlPb2GfQ-oFqqtn54K91Q..
+CSeq: 6 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 12:12:22] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---df2a8de05ec3245c;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=11169290
+From: <sip:1234@localhost:9999;transport=TCP>;tag=74ae5640
+Call-ID: qL7m55dao_-lJynlhJ3yiA..
+CSeq: 7 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 12:12:24] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---dca9a2f6d46bfded;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=11169290
+From: <sip:5678@localhost:9999;transport=TCP>;tag=23c4eb1d
+Call-ID: ewlPb2GfQ-oFqqtn54K91Q..
+CSeq: 7 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 12:12:22] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---27e86e84773a7877;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=11169290
+From: <sip:1234@localhost:9999;transport=TCP>;tag=74ae5640
+Call-ID: qL7m55dao_-lJynlhJ3yiA..
+CSeq: 8 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 12:12:24] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---4407a03de68226c7;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=11169290
+From: <sip:5678@localhost:9999;transport=TCP>;tag=23c4eb1d
+Call-ID: ewlPb2GfQ-oFqqtn54K91Q..
+CSeq: 8 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 12:12:22] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---4f755c72b7b93bb9;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=11169290
+From: <sip:1234@localhost:9999;transport=TCP>;tag=74ae5640
+Call-ID: qL7m55dao_-lJynlhJ3yiA..
+CSeq: 9 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:24] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---b18f1591dfb6e554;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=11169290
+From: <sip:5678@localhost:9999;transport=TCP>;tag=23c4eb1d
+Call-ID: ewlPb2GfQ-oFqqtn54K91Q..
+CSeq: 9 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:36] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---2d2b86dccc0afa61;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=7295279
+From: <sip:1234@localhost:9999;transport=TCP>;tag=93718f24
+Call-ID: ztLw5olOZPU36qZo0MvhFw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:36] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---3a7c4c730ae9893d;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=7295279
+From: <sip:5678@localhost:9999;transport=TCP>;tag=0fbcd76b
+Call-ID: KmYwXlUEfmKD17iT1vcCCg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:22] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---b928c6b7113ef91a;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=16002814
+From: <sip:1234@localhost:9999;transport=TCP>;tag=4f2eaa76
+Call-ID: rbZjwWuZTftDN7V2dNqg7g..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:26] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---66680cae1b7c872e;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=16002814
+From: <sip:5678@localhost:9999;transport=TCP>;tag=5fef9d0a
+Call-ID: rpD97gwvO2dAIwnCBiGp2w..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:43] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---308583d1c7cdcbac;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=5881528
+From: <sip:1234@localhost:9999;transport=TCP>;tag=9f30796b
+Call-ID: 75xOQMqOkf8sYrFK6jZIfw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:46] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---bee3f6971f05a6f1;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=5881528
+From: <sip:5678@localhost:9999;transport=TCP>;tag=cd6aed62
+Call-ID: vsOX8JgPOJaHn0fVGqI0lQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:13] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---b7c38bb48c1ed92a;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=4727069
+From: <sip:1234@localhost:9999;transport=TCP>;tag=b2e4f430
+Call-ID: geGm1I1_P9dD-4mwWjBH3A..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:66] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---0fafcc82c48e7080;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=16576731
+From: <sip:1234@localhost:9999;transport=TCP>;tag=fcd4e87c
+Call-ID: GQIgsOHhK7ihygYyHvCmbQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:19] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---1b9cc919017185bc;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=16576731
+From: <sip:5678@localhost:9999;transport=TCP>;tag=56f1f125
+Call-ID: EiDHUwmSS8KF-myUue3HmA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:87] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---ba836ff53c7eb710;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=2647892
+From: <sip:1234@localhost:9999;transport=TCP>;tag=0b9b264e
+Call-ID: 9ejRxwgUL9F6aFlRJZeQQw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:88] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---f6792050c37829bd;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=13271781
+From: <sip:1234@localhost:9999;transport=TCP>;tag=a692493e
+Call-ID: px7yOmoYuLk36nq1pnPaKQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:90] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---ff14a91a880ae77a;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=13271781
+From: <sip:5678@localhost:9999;transport=TCP>;tag=5303fe49
+Call-ID: XmUZJFNo9YW927ZP2_468Q..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:46] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---d8b90faac3e7f5a6;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=15636699
+From: <sip:1234@localhost:9999;transport=TCP>;tag=511a647e
+Call-ID: AQZ4JNNdZdUDjZ7IicXe-Q..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:91] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---8543879fc48dbfc8;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=12682201
+From: <sip:1234@localhost:9999;transport=TCP>;tag=5f0a2433
+Call-ID: fjGTBt-0yGIyTfWzh9OMxw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:53] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---ef90e69ce7fa07f7;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=12682201
+From: <sip:5678@localhost:9999;transport=TCP>;tag=43e84124
+Call-ID: wVxJXLpt16de2_FBAgJbSQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:03] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---550a2a945bf305ed;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=3350936
+From: <sip:5678@localhost:9999;transport=TCP>;tag=980a9404
+Call-ID: 93NmkXhdspHBFd3fM4sodA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:92] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---3701c814f13f6bc2;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=3350936
+From: <sip:5678@localhost:9999;transport=TCP>;tag=980a9404
+Call-ID: 93NmkXhdspHBFd3fM4sodA..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 13:12:93] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---9b0b03fc9460f2d8;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=3350936
+From: <sip:5678@localhost:9999;transport=TCP>;tag=89b95568
+Call-ID: F-YtXkLIqgq0FHsAi_0RnQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:42] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---0ec5b6677f4091d3;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=3350936
+From: <sip:1234@localhost:9999;transport=TCP>;tag=88db0708
+Call-ID: Cs20CXqmybaFFn3rITbnFw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 13:12:42] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---5148681e376b29ac;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=3350936
+From: <sip:1234@localhost:9999;transport=TCP>;tag=88db0708
+Call-ID: Cs20CXqmybaFFn3rITbnFw..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 13:12:38] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---7d7640b0ae9a9f32;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=3350936
+From: <sip:1234@localhost:9999;transport=TCP>;tag=af89803b
+Call-ID: jptft8ELMAg7OG4xm3U8pw..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:62] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---8143ede438c50fcb;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=356246
+From: <sip:1234@localhost:9999;transport=TCP>;tag=70e9770b
+Call-ID: G2F3L_9zFS3pYrOfZnsiYQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:13] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---9a2ef61688850b0e;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=356246
+From: <sip:5678@localhost:9999;transport=TCP>;tag=093aab44
+Call-ID: i2DynzojhxnYVbLPk8bXRA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:74] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---7d9d62cafbb88c9c;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=11991432
+From: <sip:1234@localhost:9999;transport=TCP>;tag=38ec4577
+Call-ID: y7c1ih5oUTBwes3cVapKtg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:25] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---85108e3d0047f8c4;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=11991432
+From: <sip:5678@localhost:9999;transport=TCP>;tag=918cbd56
+Call-ID: XK5X1PUeN_zOf9jsIPvwOQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:67] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---d173e6dd7ce4191a;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=8718420
+From: <sip:1234@localhost:9999;transport=TCP>;tag=db8bfb3a
+Call-ID: -tG1ABLfM0Y5jYII3vfnYA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:44] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---29202161ba266035;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=8718420
+From: <sip:5678@localhost:9999;transport=TCP>;tag=0566047b
+Call-ID: _JOXS5afK49ZD51mbBZ6nQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:70] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---482c56b55d6fc038;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=8718420
+From: <sip:5678@localhost:9999;transport=TCP>;tag=0566047b
+Call-ID: _JOXS5afK49ZD51mbBZ6nQ..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 13:12:70] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---860ad43883ce04f9;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=8718420
+From: <sip:5678@localhost:9999;transport=TCP>;tag=8093ad03
+Call-ID: tLRuHNdljOY1NBgazI203Q..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:70] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---66f47ea14e98e997;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=8718420
+From: <sip:1234@localhost:9999;transport=TCP>;tag=3f5d8e2e
+Call-ID: M5T0XuyEf9pNl4UBahj-Ng..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:51] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---ef8abf5bfe0aeff1;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=8718420
+From: <sip:5678@localhost:9999;transport=TCP>;tag=8093ad03
+Call-ID: tLRuHNdljOY1NBgazI203Q..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 13:12:51] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---69771faf792b38f5;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=8718420
+From: <sip:5678@localhost:9999;transport=TCP>;tag=8bead97d
+Call-ID: k3pIR0yNgjR7SV9jPtxzwg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:51] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---1e0e7ecea428bc5c;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=8718420
+From: <sip:1234@localhost:9999;transport=TCP>;tag=d557684a
+Call-ID: I_mR46xFcBxjPiY4ZxwfbA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:69] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---ae4d6b9fb6604274;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=5595186
+From: <sip:5678@localhost:9999;transport=TCP>;tag=a0cab11d
+Call-ID: 24CBStygmIJCDMUsUO8FUQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:33] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---63f044ea5dae2357;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=13370178
+From: <sip:1234@localhost:9999;transport=TCP>;tag=b0e5764b
+Call-ID: GV0G5p1iHOngCYZa2OS2MA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:54] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---c8511864069b48f3;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=13370178
+From: <sip:5678@localhost:9999;transport=TCP>;tag=10f1fb51
+Call-ID: s9Gii8P6rBx5wr7iL7fv7w..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:04] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---4dda68b6f54a84f8;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=2761829
+From: <sip:1234@localhost:9999;transport=TCP>;tag=eaca264d
+Call-ID: RsygoJuVKGlOA_I4H1mx1w..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:15] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---2afe7c44be32904f;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=2761829
+From: <sip:5678@localhost:9999;transport=TCP>;tag=2e09c364
+Call-ID: C2OQWuFtZtic78mpOa2KIg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:52] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---82f33e92b6287f5d;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=7140093
+From: <sip:1234@localhost:9999;transport=TCP>;tag=02c5c367
+Call-ID: OehMlPy1vHSfJ4rjGiwOFw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:73] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---7b5eed2ef258ad00;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=7140093
+From: <sip:5678@localhost:9999;transport=TCP>;tag=c0e80c4b
+Call-ID: x0Lqn2z6SfSK9zQs7j5VGQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:53] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---f012b0e9eb2aa92e;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=7140093
+From: <sip:1234@localhost:9999;transport=TCP>;tag=02c5c367
+Call-ID: OehMlPy1vHSfJ4rjGiwOFw..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:73] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---906068fd932261d9;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=7140093
+From: <sip:5678@localhost:9999;transport=TCP>;tag=c0e80c4b
+Call-ID: x0Lqn2z6SfSK9zQs7j5VGQ..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:53] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---206420c04729b2f5;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=7140093
+From: <sip:1234@localhost:9999;transport=TCP>;tag=02c5c367
+Call-ID: OehMlPy1vHSfJ4rjGiwOFw..
+CSeq: 3 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:74] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---0d268214b0ad1ed4;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=7140093
+From: <sip:5678@localhost:9999;transport=TCP>;tag=c0e80c4b
+Call-ID: x0Lqn2z6SfSK9zQs7j5VGQ..
+CSeq: 3 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:56] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---4a757449aa49a1a3;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=13416228
+From: <sip:1234@localhost:9999;transport=TCP>;tag=e6176655
+Call-ID: ehlpbwk--j3rGIXw8VTsQg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:73] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---7e547e4399b46d64;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=13416228
+From: <sip:1234@localhost:9999;transport=TCP>;tag=e6176655
+Call-ID: ehlpbwk--j3rGIXw8VTsQg..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 13:12:73] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---9966c5cdbf33e9bc;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=13416228
+From: <sip:1234@localhost:9999;transport=TCP>;tag=84f58b20
+Call-ID: uNpQTR1elRn5UkXEj_xQGg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:43] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---dc29f7122972d47a;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=12699588
+From: <sip:1234@localhost:9999;transport=TCP>;tag=c764143e
+Call-ID: yh2Dfx5lZa4TMj7plC2PSQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:65] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---6f3590a8bb0b69f7;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=12699588
+From: <sip:1234@localhost:9999;transport=TCP>;tag=c764143e
+Call-ID: yh2Dfx5lZa4TMj7plC2PSQ..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 13:12:65] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---77a088f6eaa90aae;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=12699588
+From: <sip:1234@localhost:9999;transport=TCP>;tag=af0a3e5a
+Call-ID: n3jR8lil-RHJypBQP4TT0Q..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:36] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---6e5ff45f62c94ccd;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=12699588
+From: <sip:1234@localhost:9999;transport=TCP>;tag=af0a3e5a
+Call-ID: n3jR8lil-RHJypBQP4TT0Q..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 13:12:36] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---97acb738502962ee;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=12699588
+From: <sip:1234@localhost:9999;transport=TCP>;tag=8742dd2f
+Call-ID: FMS6j308WluGJyiiNt_QfA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:57] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---f0618cfe2b59a437;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=12699588
+From: <sip:1234@localhost:9999;transport=TCP>;tag=8742dd2f
+Call-ID: FMS6j308WluGJyiiNt_QfA..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 13:12:58] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---513c6922723abab0;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=12699588
+From: <sip:1234@localhost:9999;transport=TCP>;tag=a032c514
+Call-ID: GFE5917LqdoKhvD3yEr2Rg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:56] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---d4301e72e63a8223;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=12699588
+From: <sip:1234@localhost:9999;transport=TCP>;tag=a032c514
+Call-ID: GFE5917LqdoKhvD3yEr2Rg..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 13:12:56] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---c5ffc096bc067bb0;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=12699588
+From: <sip:1234@localhost:9999;transport=TCP>;tag=e792c771
+Call-ID: t-xNHk17xlo7PYgWNChy9w..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:100] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---13de4ab8df8d0d9e;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=12699588
+From: <sip:1234@localhost:9999;transport=TCP>;tag=e792c771
+Call-ID: t-xNHk17xlo7PYgWNChy9w..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 13:12:00] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---bb63d96f40e7ec2d;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=12699588
+From: <sip:1234@localhost:9999;transport=TCP>;tag=5adcf455
+Call-ID: vEj9dhbDHsPGMsMqv2wxAg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:50] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---13797f1a3b7b2b6f;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=12699588
+From: <sip:5678@localhost:9999;transport=TCP>;tag=2be11252
+Call-ID: ItYHVB2gLZ2i7VhdprZ-WQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : 70
+Content-Length: 0
+
+
+[2021-12-08 13:12:50] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---9b02e24f9a1c297e;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=12699588
+From: <sip:5678@localhost:9999;transport=TCP>;tag=2be11252
+Call-ID: ItYHVB2gLZ2i7VhdprZ-WQ..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: replaces, norefersub, extended-refer, timer, outbound, path, X-cisco-serviceuri
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 13:12:61] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---0a1b83b270ed9ac4;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=12699588
+From: <sip:5678@localhost:9999;transport=TCP>;tag=e70c8401
+Call-ID: NcMAR_j3WYGU_I63krbb1w..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:42] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---8859a08adc12648a;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=13144675
+From: <sip:1234@localhost:9999;transport=TCP>;tag=3074f53b
+Call-ID: P5Ec_Y63IHny7Hqx7F-oIw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:62] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---f16efafb5e708d3e;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=13144675
+From: <sip:5678@localhost:9999;transport=TCP>;tag=e2cbe76e
+Call-ID: COnHuAi4uDZtumZDIWa4DQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:74] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---3b33f70f259af8d9;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=10486044
+From: <sip:1234@localhost:9999;transport=TCP>;tag=9aeb0409
+Call-ID: ci3LREObtNXcwevmFN8jVw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:84] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---2031c7d2a4e64efa;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=10486044
+From: <sip:5678@localhost:9999;transport=TCP>;tag=5446861c
+Call-ID: o4Y1wpNDYv_IejiQwMRpNQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:25] | [info] | INVITE
+INVITE sip:5678@localhost:9999;transport=TCP SIP/2.0
+Via: SIP/2.0/TCP 127.0.0.1;branch=z9hG4bK-524287-1---10486044;rport
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---a540b940a1a4962b;rport
+Max-Forwards: 69
+Contact: <sip:1234@127.0.0.1:53073;transport=tcp>
+To: <sip:5678@localhost:9999>
+From: <sip:1234@localhost:9999;transport=TCP>;tag=8f07f305
+Call-ID: Y9jeQSBXAjOZnPumDLgHAQ..
+CSeq: 1 INVITE
+Content-Type: application/sdp
+Content-Length: 369
+
+v=0
+o=Z 20811525 1 IN IP4 127.0.0.1
+s=Z
+c=IN IP4 127.0.0.1
+t=0 0
+m=audio 35325 RTP/AVP 106 9 98 101 0 8 18 3
+a=rtpmap:106 opus/48000/2
+a=fmtp:106 sprop-maxcapturerate=16000; minptime=20; useinbandfec=1
+a=rtpmap:98 telephone-event/48000
+a=fmtp:98 0-16
+a=rtpmap:101 telephone-event/8000
+a=fmtp:101 0-16
+a=rtpmap:18 G729/8000
+a=fmtp:18 annexb=no
+a=sendrecv
+
+[2021-12-08 13:12:33] | [info] | 100 Trying
+
+[2021-12-08 13:12:26] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---8446037d600b9d4e;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=10486044
+From: <sip:1234@localhost:9999;transport=TCP>;tag=9aeb0409
+Call-ID: ci3LREObtNXcwevmFN8jVw..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 13:12:26] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---43f0beb6989f219a;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=10486044
+From: <sip:1234@localhost:9999;transport=TCP>;tag=3a2c0620
+Call-ID: smY6ji2lb404Et9l6mUkaA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:26] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---c38eda5fda9b20eb;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=10486044
+From: <sip:5678@localhost:9999;transport=TCP>;tag=e6088948
+Call-ID: QkR-MHAgIOdLmmxS9OlOgA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:51] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---06258a11359bd38f;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=9357097
+From: <sip:1234@localhost:9999;transport=TCP>;tag=8fc1f02e
+Call-ID: HaYM5Ga-QzVj-u6mVFkqMw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:01] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---3812665bb3271616;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=9357097
+From: <sip:5678@localhost:9999;transport=TCP>;tag=6f578354
+Call-ID: XnskaMh4ck1mgdJDSw2rbA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:24] | [info] | INVITE
+INVITE sip:5678@localhost:9999;transport=TCP SIP/2.0
+Via: SIP/2.0/TCP 127.0.0.1;branch=z9hG4bK-524287-1---9357097;rport
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---aa35fc311e9d1a5b;rport
+Max-Forwards: 69
+Contact: <sip:1234@127.0.0.1:53073;transport=tcp>
+To: <sip:5678@localhost:9999>
+From: <sip:1234@localhost:9999;transport=TCP>;tag=fd1d3507
+Call-ID: dCnF2EQLgIQkiNstabz57g..
+CSeq: 1 INVITE
+Content-Type: application/sdp
+Content-Length: 369
+
+v=0
+o=Z 20870495 1 IN IP4 127.0.0.1
+s=Z
+c=IN IP4 127.0.0.1
+t=0 0
+m=audio 53585 RTP/AVP 106 9 98 101 0 8 18 3
+a=rtpmap:106 opus/48000/2
+a=fmtp:106 sprop-maxcapturerate=16000; minptime=20; useinbandfec=1
+a=rtpmap:98 telephone-event/48000
+a=fmtp:98 0-16
+a=rtpmap:101 telephone-event/8000
+a=fmtp:101 0-16
+a=rtpmap:18 G729/8000
+a=fmtp:18 annexb=no
+a=sendrecv
+
+[2021-12-08 13:12:32] | [info] | 100 Trying
+
+[2021-12-08 13:12:25] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---d548b07f0b555648;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=9357097
+From: <sip:1234@localhost:9999;transport=TCP>;tag=8fc1f02e
+Call-ID: HaYM5Ga-QzVj-u6mVFkqMw..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 13:12:26] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---60441da19ec07e03;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=9357097
+From: <sip:1234@localhost:9999;transport=TCP>;tag=753bf125
+Call-ID: 0rdIkSyDpNWu9g_c3wAaWg..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:25] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---17ba82b20c685075;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=9357097
+From: <sip:5678@localhost:9999;transport=TCP>;tag=2afbed5e
+Call-ID: W_wIbGILXNFQRhO_4XX7nA..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:85] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---b2a2b5c2f013adff;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=3873318
+From: <sip:5678@localhost:9999;transport=TCP>;tag=f59d0c46
+Call-ID: cjaYDnkDxvCl1W92b22RKQ..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:06] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---318a2d34d0a84722;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=3873318
+From: <sip:1234@localhost:9999;transport=TCP>;tag=a3560123
+Call-ID: uAHU-fzhdTFn89P4JMqHAw..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:32] | [info] | INVITE
+INVITE sip:5678@localhost:9999;transport=TCP SIP/2.0
+Via: SIP/2.0/TCP 127.0.0.1;branch=z9hG4bK-524287-1---3873318;rport
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---5ea700f94daf7f42;rport
+Max-Forwards: 69
+Contact: <sip:1234@127.0.0.1:53073;transport=tcp>
+To: <sip:5678@localhost:9999>
+From: <sip:1234@localhost:9999;transport=TCP>;tag=b5341075
+Call-ID: eC7DZ-SM6QziJtqqToRR8g..
+CSeq: 1 INVITE
+Content-Type: application/sdp
+Content-Length: 369
+
+v=0
+o=Z 20916552 1 IN IP4 127.0.0.1
+s=Z
+c=IN IP4 127.0.0.1
+t=0 0
+m=audio 34174 RTP/AVP 106 9 98 101 0 8 18 3
+a=rtpmap:106 opus/48000/2
+a=fmtp:106 sprop-maxcapturerate=16000; minptime=20; useinbandfec=1
+a=rtpmap:98 telephone-event/48000
+a=fmtp:98 0-16
+a=rtpmap:101 telephone-event/8000
+a=fmtp:101 0-16
+a=rtpmap:18 G729/8000
+a=fmtp:18 annexb=no
+a=sendrecv
+
+[2021-12-08 13:12:41] | [info] | 100 Trying
+
+[2021-12-08 13:12:34] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---a55c99517295d73b;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=3873318
+From: <sip:1234@localhost:9999;transport=TCP>;tag=a3560123
+Call-ID: uAHU-fzhdTFn89P4JMqHAw..
+CSeq: 2 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : undefined
+Content-Length: 0
+
+
+[2021-12-08 13:12:34] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---735ad7407806e1ef;rport
+To: <sip:1234@localhost:9999;transport=TCP> tag=3873318
+From: <sip:1234@localhost:9999;transport=TCP>;tag=27555f50
+Call-ID: cvYLj7mrR2dH4i4rc4b3Ng..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:34] | [info] | REGISTER
+SIP/2.0 200 OK
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---60e8e62b1752a1a7;rport
+To: <sip:5678@localhost:9999;transport=TCP> tag=3873318
+From: <sip:5678@localhost:9999;transport=TCP>;tag=1536d40e
+Call-ID: Am5VwWUnGZMHI6Uiyi1e9g..
+CSeq: 1 REGISTER
+Server: Nosterisk 
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Supported: undefined
+Expires : 600
+Content-Length: 0
+
+
+[2021-12-08 13:12:68] | [info] | INVITE
+INVITE sip:5678@localhost:9999;transport=TCP SIP/2.0
+Via: SIP/2.0/TCP 127.0.0.1;branch=z9hG4bK-524287-1---3873318;rport
+Via: SIP/2.0/TCP [::1]:53073;branch=z9hG4bK-524287-1---ecb80b83a2b03a7d;rport
+Max-Forwards: 69
+Contact: <sip:1234@[::1]:53073;transport=tcp>
+To: <sip:5678@localhost:9999>
+From: <sip:1234@localhost:9999;transport=TCP>;tag=932e0500
+Call-ID: xrZx40piDpnUh3x0VNc8MQ..
+CSeq: 1 INVITE
+Content-Type: application/sdp
+Content-Length: 369
+
+v=0
+o=Z 20991930 1 IN IP4 127.0.0.1
+s=Z
+c=IN IP4 127.0.0.1
+t=0 0
+m=audio 36302 RTP/AVP 106 9 98 101 0 8 18 3
+a=rtpmap:106 opus/48000/2
+a=fmtp:106 sprop-maxcapturerate=16000; minptime=20; useinbandfec=1
+a=rtpmap:98 telephone-event/48000
+a=fmtp:98 0-16
+a=rtpmap:101 telephone-event/8000
+a=fmtp:101 0-16
+a=rtpmap:18 G729/8000
+a=fmtp:18 annexb=no
+a=sendrecv
+
+[2021-12-08 13:12:76] | [info] | 100 Trying
+
+[2021-12-08 13:12:54] | [info] | 100 Trying
+
+[2021-12-08 14:12:61] | [info] | 100 Trying
+
+[2021-12-08 14:12:75] | [info] | 100 Trying
+
+[2021-12-08 14:12:22] | [info] | 100 Trying
+
+[2021-12-08 14:12:60] | [info] | 100 Trying
+
+[2021-12-08 14:12:95] | [info] | 100 Trying
+
+[2021-12-08 14:12:06] | [info] | 100 Trying
+
+[2021-12-08 14:12:14] | [info] | 100 Trying
+
+[2021-12-08 14:12:91] | [info] | 100 Trying
+
+[2021-12-08 14:12:39] | [info] | 100 Trying
+
+[2021-12-08 14:12:34] | [info] | 100 Trying
+
+[2021-12-08 14:12:06] | [info] | 100 Trying
+
+[2021-12-08 14:12:56] | [info] | 100 Trying
+
+[2021-12-08 14:12:02] | [info] | 100 Trying
+
+[2021-12-08 14:12:41] | [info] | 100 Trying
+
+[2021-12-08 14:12:70] | [info] | 100 Trying
+
+[2021-12-08 14:12:44] | [info] | 100 Trying
+
+[2021-12-08 14:12:80] | [info] | 100 Trying
+
+[2021-12-08 14:12:61] | [info] | 100 Trying
+
+[2021-12-08 14:12:62] | [info] | 100 Trying
+
+[2021-12-08 14:12:67] | [info] | 100 Trying
+
+[2021-12-08 14:12:06] | [info] | 100 Trying
+
+[2021-12-08 14:12:66] | [info] | 100 Trying
+
+[2021-12-08 14:12:48] | [info] | 100 Trying
+INVITE sip:5678@localhost:9999;transport=TCP SIP/2.0
+Via: SIP/2.0/TCP 127.0.0.1;branch=z9hG4bK-524287-1---15719004;rport
+Via: SIP/2.0/TCP 127.0.0.1:53073;branch=z9hG4bK-524287-1---c66d9bab48979971;rport
+Max-Forwards: 69
+Contact: <sip:1234@127.0.0.1:53073;transport=tcp>
+To: <sip:5678@localhost:9999>
+From: <sip:1234@localhost:9999;transport=TCP>;tag=df1de71c
+Call-ID: ltNlten9P_8Cmwwb1KAbhw..
+CSeq: 1 INVITE
+Allow: INVITE, ACK, CANCEL, BYE, NOTIFY, REFER, MESSAGE, OPTIONS, INFO, SUBSCRIBE
+Content-Type: application/sdp
+Allow-Events: presence, kpml, talk
+Content-Length: 369
+
+v=0
+o=Z 24081706 1 IN IP4 127.0.0.1
+s=Z
+c=IN IP4 127.0.0.1
+t=0 0
+m=audio 46224 RTP/AVP 106 9 98 101 0 8 18 3
+a=rtpmap:106 opus/48000/2
+a=fmtp:106 sprop-maxcapturerate=16000; minptime=20; useinbandfec=1
+a=rtpmap:98 telephone-event/48000
+a=fmtp:98 0-16
+a=rtpmap:101 telephone-event/8000
+a=fmtp:101 0-16
+a=rtpmap:18 G729/8000
+a=fmtp:18 annexb=no
+a=sendrecv
+
+[2021-12-08 14:12:94] | [info] | 100 Trying
+

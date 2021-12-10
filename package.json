@@ -1,0 +1,22 @@
+{
+    "name": "nosterisk",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "NODE_OPTIONS='--experimental-specifier-resolution=node' nodemon index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "dgram": "^1.0.1",
+        "lodash": "^4.17.21",
+        "net": "^1.0.2",
+        "sip": "0.0.6",
+        "winston": "^3.3.3",
+        "winston-daily-rotate-file": "^4.5.5"
+    }
+}
