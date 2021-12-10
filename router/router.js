@@ -31,7 +31,7 @@ async function methodRouter(chunk, socket) {
                 callee = parserobj.to_id;
                 caller = parserobj.from_id;
 
-                // memory.send(caller, forwardRinging(parserobj));
+                memory.send(caller, forwardRinging(parserobj));
                 break;
 
             case OK200:

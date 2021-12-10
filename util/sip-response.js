@@ -89,10 +89,11 @@ export function forwardOk(parserobj, parserobj2, sdp) {
             let recieved = upperViaFeild.substring(via.indexOf(" ") + 1, via.indexOf(":"));
             upperViaFeild = upperViaFeild + ";recieved=" + recieved;
 
-            fwd_res = fwd_res + "Via: " + upperViaFeild + "\r\n";
+            // fwd_res = fwd_res + "Via: " + upperViaFeild + "\r\n";
         }
     });
 
+    fwd_res = fwd_res + "Via: " + parserobj.via[1] + "\r\n";
     fwd_res = fwd_res + "Contact: " + parserobj.contact + "\r\n";
     fwd_res = fwd_res + "To: " + parserobj.to + "\r\n";
     fwd_res = fwd_res + "From: " + parserobj.from + "\r\n";
@@ -133,9 +134,9 @@ export function forwardInvite(parserobj, parserobj2, sdp) {
     fwd_res = fwd_res + "Call-ID: " + parserobj.callId + "\r\n";
     fwd_res = fwd_res + "CSeq: " + parserobj.cseq + "\r\n";
 
-    let modifiedContact = parserobj.contact.substring(0, parserobj.contact.indexOf("@") + 1) + servIp + ">";
-    fwd_res = fwd_res + "Contact: " + modifiedContact + "\r\n";
-
+    // let modifiedContact = parserobj.contact.substring(0, parserobj.contact.indexOf("@") + 1) + servIp + ">";
+    // fwd_res = fwd_res + "Contact: " + modifiedContact + "\r\n";
+    fwd_res = fwd_res + "Contact: " + parserobj.contact + "\r\n";
     fwd_res = fwd_res + "Content-Type: " + parserobj.contentType + "\r\n";
     fwd_res = fwd_res + "Max-Forwards: " + (Number(parserobj.maxforwards.trim()) - 1) + "\r\n";
     fwd_res = fwd_res + "User-Agent: " + parserobj.useragent + "\r\n";
