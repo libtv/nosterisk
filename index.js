@@ -1,6 +1,6 @@
 import net from "net";
-import methodRouter from "./router/router";
-import { bytes2str } from "./util/string";
+import methodRouter from "./router/router.js";
+import { bytes2str } from "./util/string.js";
 
 let server = net.createServer((socket) => {
     socket.on("data", (chunk) => {
@@ -16,4 +16,4 @@ let server = net.createServer((socket) => {
     });
 });
 
-server.listen(9999);
+server.listen(7777);

@@ -1,4 +1,4 @@
-import { ALLOW, ALLOWEVENTS, CALLID, CONTACT, CONTENT_LENGTH, CSEQ, EXPIRES, FROM, MAXFORWARDS, TO, USERAGENT, VIA } from "../const/const";
+import { ALLOW, ALLOWEVENTS, CALLID, CONTACT, CONTENT_LENGTH, CSEQ, EXPIRES, FROM, MAXFORWARDS, TO, USERAGENT, VIA } from "../const/const.js";
 
 export function OK_200(parserobj) {
     let ok_res = "SIP/2.0 200 OK\r\n";
